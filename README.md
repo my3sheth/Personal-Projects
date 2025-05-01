@@ -1,7 +1,7 @@
 1.	NIDS USING A META-ENSEMBLE LEARNING MODEL
 
-
 Python | Machine Learning | Pandas | IMBLEARN | Matplotlib | PowerBI
+
 Engineered a meta-ensemble intrusion detection model using LR, GNB, and LDA with Borderline SMOTE, SelectKBest, and soft Voting Classifier, boosting evaluation scores via ROC-AUC, PR-AUC and confusion matrix and visualizing the metrics using PowerBI.
 
 
