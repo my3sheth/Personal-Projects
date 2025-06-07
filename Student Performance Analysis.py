@@ -68,7 +68,6 @@ class RecordsManager:
         plt.ylabel('PERCENTAGE')
         plt.show()
 
-# Create instances for each class
 records_manager = RecordsManager()
 
 class_10 = StudentRecord('CLASS 10')
@@ -83,7 +82,6 @@ class_12 = StudentRecord('CLASS 12')
 class_12.input_subjects_and_marks()
 records_manager.add_record(class_12)
 
-# Visualization
 print("\nSelect the module to be visualized from the table of contents below:")
 print(' 1. 10th Marks \n 2. 11th Marks \n 3. 12th Marks \n 4. Comparison between classes \n 5. Exit \n')
 
